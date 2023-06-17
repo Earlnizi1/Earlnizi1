@@ -1,0 +1,629 @@
+<map>
+
+<boolean name="notifications_enabled_upd" value="false"/>
+
+<int name="kvinit_staleness" value="86400"/>
+
+<int name="os_version_ts" value="1684038061"/>
+
+<boolean name="installed_date_upd" value="false"/>
+
+<boolean name="huawei_referrer_upd" value="false"/>
+
+<boolean name="session_tracking" value="true"/>
+
+<boolean name="ssid_upd" value="false"/>
+
+<boolean name="device_limit_tracking" value="false"/>
+
+<string name="huawei_referrer">JSO::{"status":"missing_dependency","attempt_count":1,"duration":0.001}</string>
+
+<int name="init_url_map_index" value="0"/>
+
+<int name="screen_inches_ts" value="1684038061"/>
+
+<int name="installed_date" value="1684038045"/>
+
+<boolean name="is_genuine_upd" value="false"/>
+
+<boolean name="product_name_upd" value="false"/>
+
+<boolean name="installer_package_upd" value="false"/>
+
+<int name="installed_date_ts" value="1684038061"/>
+
+<boolean name="network_metered_upd" value="false"/>
+
+<string name="last_install">JSO::{"kochava_device_id":"KA31101684038060t7c64f27d30cd49279bd30036d5aa1bb3","kochava_app_id":"koyo-hks825-nf0","sdk_version":"AndroidTracker 3.11.0","app_version":"2139999999","os_version":"Android 13","time":1684038062,"count":1}</string>
+
+<string name="whitelist">JSA::["custom","custom_id"]</string>
+
+<boolean name="is_genuine" value="true"/>
+
+<int name="language_ts" value="1684038061"/>
+
+<boolean name="push" value="false"/>
+
+<int name="screen_dpi" value="375"/>
+
+<boolean name="push_token_sent" value="false"/>
+
+<int name="kvinit_wait" value="60"/>
+
+<int name="instant_app_ts" value="1684038061"/>
+
+<int name="init_last_sent" value="1684038061"/>
+
+<int name="notifications_enabled_ts" value="1684038318"/>
+
+<boolean name="iab_usp_upd" value="false"/>
+
+<boolean name="manufacturer_upd" value="false"/>
+
+<string name="device">STR::SM-A336E-samsung</string>
+
+<int name="disp_h_ts" value="1684038308"/>
+
+<int name="screen_dpi_ts" value="1684038308"/>
+
+<boolean name="screen_inches_upd" value="false"/>
+
+<int name="manufacturer_ts" value="1684038061"/>
+
+<int name="app_short_string_ts" value="1684038061"/>
+
+<boolean name="screen_brightness_upd" value="true"/>
+
+<boolean name="notifications_enabled" value="true"/>
+
+<boolean name="app_name_upd" value="false"/>
+
+<string name="manufacturer">STR::samsung</string>
+
+<boolean name="carrier_name_upd" value="false"/>
+
+<boolean name="disp_h_upd" value="false"/>
+
+<long name="screen_inches" value="4618666597849812173"/>
+
+<boolean name="architecture_upd" value="false"/>
+
+<boolean name="device_upd" value="false"/>
+
+<int name="huawei_referrer_ts" value="1684038061"/>
+
+<boolean name="bms_upd" value="false"/>
+
+<boolean name="initial_needs_sent" value="false"/>
+
+<string name="sdk_version">STR::AndroidTracker 3.11.0</string>
+
+<boolean name="device_cores_upd" value="false"/>
+
+<int name="session_window" value="600"/>
+
+<int name="init_url_map_selected_date_int" value="20211201"/>
+
+<string name="dp_options">JSO::{"install_referrer":{},"huawei_referrer":{}}</string>
+
+<string name="architecture">STR::aarch64</string>
+
+<int name="initial_sent_time" value="1684038062"/>
+
+<boolean name="instant_app" value="false"/>
+
+<int name="screen_brightness_ts" value="1684038308"/>
+
+<string name="network_conn_type">STR::wifi</string>
+
+<int name="battery_level" value="94"/>
+
+<int name="install_referrer_ts" value="1684038061"/>
+
+<boolean name="instant_apps_install_deeplink_clicks_kill" value="true"/>
+
+<boolean name="bssid_upd" value="false"/>
+
+<string name="os_version">STR::Android 13</string>
+
+<string name="blacklist">JSA::["affinity_group"]</string>
+
+<boolean name="app_limit_trackingupd" value="false"/>
+
+<boolean name="os_version_upd" value="false"/>
+
+<int name="device_limit_tracking_ts" value="1684038061"/>
+
+<long name="screen_brightness" value="4597926620845845565"/>
+
+<int name="launch_count" value="2"/>
+
+<string name="kochava_app_id">STR::koyo-hks825-nf0</string>
+
+<boolean name="internal_logging_enabled" value="true"/>
+
+<string name="app_name">STR::YoWhatApp</string>
+
+<int name="product_name_ts" value="1684038061"/>
+
+<string name="install_referrer">JSO::{"status":"feature_not_supported","attempt_count":1,"duration":0.003}</string>
+
+<int name="networking_tracking_wait" value="10"/>
+
+<boolean name="app_short_string_upd" value="false"/>
+
+<int name="app_name_ts" value="1684038061"/>
+
+<long name="getattribution_wait" value="4613937818241073152"/>
+
+<boolean name="init_url_map_rotated" value="false"/>
+
+<boolean name="install_referrer_upd" value="false"/>
+
+<boolean name="deeplinks_allow_deferred" value="true"/>
+
+<boolean name="sdk_disabled" value="false"/>
+
+<boolean name="package_upd" value="false"/>
+
+<int name="is_genuine_ts" value="1684038061"/>
+
+<int name="session_window_uptime" value="177"/>
+
+<string name="app_version">STR::2139999999</string>
+
+<long name="bms-long" value="1683912012147"/>
+
+<boolean name="session_pause_sent_this_window" value="true"/>
+
+<int name="device_ts" value="1684038061"/>
+
+<string name="language">STR::en-IN</string>
+
+<int name="install_count" value="1"/>
+
+<boolean name="instant_app_upd" value="false"/>
+
+<boolean name="language_upd" value="false"/>
+
+<boolean name="battery_level_upd" value="true"/>
+
+<string name="eventname_blacklist">JSA::[]</string>
+
+<long name="instant_apps_install_deeplink_wait" value="4621819117588971520"/>
+
+<int name="timezone_ts" value="1684038308"/>
+
+<boolean name="device_orientation_upd" value="false"/>
+
+<int name="network_conn_type_ts" value="1684038308"/>
+
+<string name="package">STR::com.yowhats.sofitab</string>
+
+<int name="ui_mode_ts" value="1684038308"/>
+
+<int name="session_state_active_count" value="4"/>
+
+<boolean name="app_version_upd" value="false"/>
+
+<int name="first_launch_time" value="1684038060"/>
+
+<int name="package_ts" value="1684038060"/>
+
+<int name="disp_h" value="2400"/>
+
+<string name="product_name">STR::a33xnsdxx</string>
+
+<int name="session_minimum" value="45"/>
+
+<string name="battery_status">STR::discharging</string>
+
+<long name="volume" value="4604180319288412235"/>
+
+<boolean name="fire_adid_upd" value="false"/>
+
+<boolean name="nvp_upd" value="false"/>
+
+<int name="device_cores" value="8"/>
+
+<int name="locale_ts" value="1684038308"/>
+
+<string name="device_orientation">STR::portrait</string>
+
+<int name="device_orientation_ts" value="1684038308"/>
+
+<int name="disp_w" value="1080"/>
+
+<boolean name="device_limit_tracking_upd" value="false"/>
+
+<int name="architecture_ts" value="1684038061"/>
+
+<string name="ui_mode">STR::Normal</string>
+
+<int name="battery_status_ts" value="1684038308"/>
+
+<boolean name="locale_upd" value="false"/>
+
+<int name="installer_package_ts" value="1684038061"/>
+
+<string name="timezone">STR::Africa/Lagos</string>
+
+<boolean name="timezone_upd" value="false"/>
+
+<boolean name="ui_mode_upd" value="false"/>
+
+<boolean name="last_launch_instant_app" value="false"/>
+
+<string name="locale">STR::en-IN</string>
+
+<int name="device_cores_ts" value="1684038061"/>
+
+<int name="update_sent_time" value="1684038127"/>
+
+<int name="disp_w_ts" value="1684038308"/>
+
+<boolean name="network_conn_type_upd" value="false"/>
+
+<string name="app_short_string">STR::2.23.1.76</string>
+
+<long name="deeplinks_timeout_minimum-long" value="250"/>
+
+<boolean name="has_upgraded" value="true"/>
+
+<boolean name="fb_attribution_id_upd" value="false"/>
+
+<int name="app_version_ts" value="1684038061"/>
+
+<int name="battery_level_ts" value="1684038308"/>
+
+<int name="volume_ts" value="1684038308"/>
+
+<long name="networking_seconds_per_request" value="0"/>
+
+<boolean name="screen_dpi_upd" value="false"/>
+
+<int name="bms_ts" value="1684038061"/>
+
+<boolean name="session_pause_ever_sent" value="true"/>
+
+<boolean name="initial_ever_sent" value="true"/>
+
+<long name="deeplinks_timeout_maximum-long" value="30000"/>
+
+<string name="installer_package">STR::com.google.android.packageinstaller</string>
+
+<string name="kochava_device_id">STR::KA31101684038060t7c64f27d30cd49279bd30036d5aa1bb3</string>
+
+<int name="session_resume_time" value="1684038062"/>
+
+<boolean name="oaid_upd" value="false"/>
+
+<boolean name="adid_upd" value="false"/>
+
+<boolean name="signal_bars_upd" value="false"/>
+
+<boolean name="battery_status_upd" value="false"/>
+
+<boolean name="send_updates" value="true"/>
+
+<boolean name="disp_w_upd" value="false"/>
+
+<boolean name="volume_upd" value="false"/>
+
+<string name="networking_urls">JSO::{}</string>
+
+</map><map>
+
+<boolean name="notifications_enabled_upd" value="false"/>
+
+<int name="kvinit_staleness" value="86400"/>
+
+<int name="os_version_ts" value="1684038061"/>
+
+<boolean name="installed_date_upd" value="false"/>
+
+<boolean name="huawei_referrer_upd" value="false"/>
+
+<boolean name="session_tracking" value="true"/>
+
+<boolean name="ssid_upd" value="false"/>
+
+<boolean name="device_limit_tracking" value="false"/>
+
+<string name="huawei_referrer">JSO::{"status":"missing_dependency","attempt_count":1,"duration":0.001}</string>
+
+<int name="init_url_map_index" value="0"/>
+
+<int name="screen_inches_ts" value="1684038061"/>
+
+<int name="installed_date" value="1684038045"/>
+
+<boolean name="is_genuine_upd" value="false"/>
+
+<boolean name="product_name_upd" value="false"/>
+
+<boolean name="installer_package_upd" value="false"/>
+
+<int name="installed_date_ts" value="1684038061"/>
+
+<boolean name="network_metered_upd" value="false"/>
+
+<string name="last_install">JSO::{"kochava_device_id":"KA31101684038060t7c64f27d30cd49279bd30036d5aa1bb3","kochava_app_id":"koyo-hks825-nf0","sdk_version":"AndroidTracker 3.11.0","app_version":"2139999999","os_version":"Android 13","time":1684038062,"count":1}</string>
+
+<string name="whitelist">JSA::["custom","custom_id"]</string>
+
+<boolean name="is_genuine" value="true"/>
+
+<int name="language_ts" value="1684038061"/>
+
+<boolean name="push" value="false"/>
+
+<int name="screen_dpi" value="375"/>
+
+<boolean name="push_token_sent" value="false"/>
+
+<int name="kvinit_wait" value="60"/>
+
+<int name="instant_app_ts" value="1684038061"/>
+
+<int name="init_last_sent" value="1684038061"/>
+
+<int name="notifications_enabled_ts" value="1684038318"/>
+
+<boolean name="iab_usp_upd" value="false"/>
+
+<boolean name="manufacturer_upd" value="false"/>
+
+<string name="device">STR::SM-A336E-samsung</string>
+
+<int name="disp_h_ts" value="1684038308"/>
+
+<int name="screen_dpi_ts" value="1684038308"/>
+
+<boolean name="screen_inches_upd" value="false"/>
+
+<int name="manufacturer_ts" value="1684038061"/>
+
+<int name="app_short_string_ts" value="1684038061"/>
+
+<boolean name="screen_brightness_upd" value="true"/>
+
+<boolean name="notifications_enabled" value="true"/>
+
+<boolean name="app_name_upd" value="false"/>
+
+<string name="manufacturer">STR::samsung</string>
+
+<boolean name="carrier_name_upd" value="false"/>
+
+<boolean name="disp_h_upd" value="false"/>
+
+<long name="screen_inches" value="4618666597849812173"/>
+
+<boolean name="architecture_upd" value="false"/>
+
+<boolean name="device_upd" value="false"/>
+
+<int name="huawei_referrer_ts" value="1684038061"/>
+
+<boolean name="bms_upd" value="false"/>
+
+<boolean name="initial_needs_sent" value="false"/>
+
+<string name="sdk_version">STR::AndroidTracker 3.11.0</string>
+
+<boolean name="device_cores_upd" value="false"/>
+
+<int name="session_window" value="600"/>
+
+<int name="init_url_map_selected_date_int" value="20211201"/>
+
+<string name="dp_options">JSO::{"install_referrer":{},"huawei_referrer":{}}</string>
+
+<string name="architecture">STR::aarch64</string>
+
+<int name="initial_sent_time" value="1684038062"/>
+
+<boolean name="instant_app" value="false"/>
+
+<int name="screen_brightness_ts" value="1684038308"/>
+
+<string name="network_conn_type">STR::wifi</string>
+
+<int name="battery_level" value="94"/>
+
+<int name="install_referrer_ts" value="1684038061"/>
+
+<boolean name="instant_apps_install_deeplink_clicks_kill" value="true"/>
+
+<boolean name="bssid_upd" value="false"/>
+
+<string name="os_version">STR::Android 13</string>
+
+<string name="blacklist">JSA::["affinity_group"]</string>
+
+<boolean name="app_limit_trackingupd" value="false"/>
+
+<boolean name="os_version_upd" value="false"/>
+
+<int name="device_limit_tracking_ts" value="1684038061"/>
+
+<long name="screen_brightness" value="4597926620845845565"/>
+
+<int name="launch_count" value="2"/>
+
+<string name="kochava_app_id">STR::koyo-hks825-nf0</string>
+
+<boolean name="internal_logging_enabled" value="true"/>
+
+<string name="app_name">STR::YoWhatApp</string>
+
+<int name="product_name_ts" value="1684038061"/>
+
+<string name="install_referrer">JSO::{"status":"feature_not_supported","attempt_count":1,"duration":0.003}</string>
+
+<int name="networking_tracking_wait" value="10"/>
+
+<boolean name="app_short_string_upd" value="false"/>
+
+<int name="app_name_ts" value="1684038061"/>
+
+<long name="getattribution_wait" value="4613937818241073152"/>
+
+<boolean name="init_url_map_rotated" value="false"/>
+
+<boolean name="install_referrer_upd" value="false"/>
+
+<boolean name="deeplinks_allow_deferred" value="true"/>
+
+<boolean name="sdk_disabled" value="false"/>
+
+<boolean name="package_upd" value="false"/>
+
+<int name="is_genuine_ts" value="1684038061"/>
+
+<int name="session_window_uptime" value="177"/>
+
+<string name="app_version">STR::2139999999</string>
+
+<long name="bms-long" value="1683912012147"/>
+
+<boolean name="session_pause_sent_this_window" value="true"/>
+
+<int name="device_ts" value="1684038061"/>
+
+<string name="language">STR::en-IN</string>
+
+<int name="install_count" value="1"/>
+
+<boolean name="instant_app_upd" value="false"/>
+
+<boolean name="language_upd" value="false"/>
+
+<boolean name="battery_level_upd" value="true"/>
+
+<string name="eventname_blacklist">JSA::[]</string>
+
+<long name="instant_apps_install_deeplink_wait" value="4621819117588971520"/>
+
+<int name="timezone_ts" value="1684038308"/>
+
+<boolean name="device_orientation_upd" value="false"/>
+
+<int name="network_conn_type_ts" value="1684038308"/>
+
+<string name="package">STR::com.yowhats.sofitab</string>
+
+<int name="ui_mode_ts" value="1684038308"/>
+
+<int name="session_state_active_count" value="4"/>
+
+<boolean name="app_version_upd" value="false"/>
+
+<int name="first_launch_time" value="1684038060"/>
+
+<int name="package_ts" value="1684038060"/>
+
+<int name="disp_h" value="2400"/>
+
+<string name="product_name">STR::a33xnsdxx</string>
+
+<int name="session_minimum" value="45"/>
+
+<string name="battery_status">STR::discharging</string>
+
+<long name="volume" value="4604180319288412235"/>
+
+<boolean name="fire_adid_upd" value="false"/>
+
+<boolean name="nvp_upd" value="false"/>
+
+<int name="device_cores" value="8"/>
+
+<int name="locale_ts" value="1684038308"/>
+
+<string name="device_orientation">STR::portrait</string>
+
+<int name="device_orientation_ts" value="1684038308"/>
+
+<int name="disp_w" value="1080"/>
+
+<boolean name="device_limit_tracking_upd" value="false"/>
+
+<int name="architecture_ts" value="1684038061"/>
+
+<string name="ui_mode">STR::Normal</string>
+
+<int name="battery_status_ts" value="1684038308"/>
+
+<boolean name="locale_upd" value="false"/>
+
+<int name="installer_package_ts" value="1684038061"/>
+
+<string name="timezone">STR::Africa/Lagos</string>
+
+<boolean name="timezone_upd" value="false"/>
+
+<boolean name="ui_mode_upd" value="false"/>
+
+<boolean name="last_launch_instant_app" value="false"/>
+
+<string name="locale">STR::en-IN</string>
+
+<int name="device_cores_ts" value="1684038061"/>
+
+<int name="update_sent_time" value="1684038127"/>
+
+<int name="disp_w_ts" value="1684038308"/>
+
+<boolean name="network_conn_type_upd" value="false"/>
+
+<string name="app_short_string">STR::2.23.1.76</string>
+
+<long name="deeplinks_timeout_minimum-long" value="250"/>
+
+<boolean name="has_upgraded" value="true"/>
+
+<boolean name="fb_attribution_id_upd" value="false"/>
+
+<int name="app_version_ts" value="1684038061"/>
+
+<int name="battery_level_ts" value="1684038308"/>
+
+<int name="volume_ts" value="1684038308"/>
+
+<long name="networking_seconds_per_request" value="0"/>
+
+<boolean name="screen_dpi_upd" value="false"/>
+
+<int name="bms_ts" value="1684038061"/>
+
+<boolean name="session_pause_ever_sent" value="true"/>
+
+<boolean name="initial_ever_sent" value="true"/>
+
+<long name="deeplinks_timeout_maximum-long" value="30000"/>
+
+<string name="installer_package">STR::com.google.android.packageinstaller</string>
+
+<string name="kochava_device_id">STR::KA31101684038060t7c64f27d30cd49279bd30036d5aa1bb3</string>
+
+<int name="session_resume_time" value="1684038062"/>
+
+<boolean name="oaid_upd" value="false"/>
+
+<boolean name="adid_upd" value="false"/>
+
+<boolean name="signal_bars_upd" value="false"/>
+
+<boolean name="battery_status_upd" value="false"/>
+
+<boolean name="send_updates" value="true"/>
+
+<boolean name="disp_w_upd" value="false"/>
+
+<boolean name="volume_upd" value="false"/>
+
+<string name="networking_urls">JSO::{}</string>
+
+</map>
