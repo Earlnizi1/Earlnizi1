@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="com.yowhats.sofitab.registration.RegisterPhone.mistyped_state">7</string>
+    <int name="registration_voice_code_length" value="6" />
+    <boolean name="companion_reg_opt_in_enabled" value="true" />
+    <int name="reg_attempts_check_exist" value="1" />
+    <boolean name="md_opt_in_show_forced_dialog" value="true" />
+    <boolean name="pref_prefer_sms_over_flash" value="false" />
+    <long name="dithered_last_signed_prekey_rotation" value="1682762377167" />
+    <string name="pref_autoconf_feo2_query_status">error_security_exception</string>
+    <string name="sticker_store_etag">ef9062f690bf181c3f4370fcd782c7b1</string>
+    <long name="phoneid_timestamp" value="1684038055746" />
+    <int name="connection_lc" value="0" />
+    <boolean name="signal_protocol_store_is_new" value="true" />
+    <string name="pref_pre_chatd_ab_hash">1ghzyl</string>
+    <long name="client_version_upgrade_timestamp" value="1684038057143" />
+    <long name="sticker_store_last_fetch_time" value="1684038057703" />
+    <long name="next_randomized_daily_cron" value="1684076972387" />
+    <long name="eula_accepted_time" value="1684038062371" />
+    <int name="reg_skip_storage_perm" value="0" />
+    <boolean name="is_eula_loaded_once" value="true" />
+    <boolean name="is_ls_shown_during_reg" value="true" />
+    <boolean name="pref_flash_call_education_screen_displayed" value="false" />
+    <string name="phoneid_id">c5ba2fff-9f9d-4af9-a9d2-18fed9cd36d0</string>
+    <long name="sticker_store_backoff_time" value="0" />
+    <string name="cc">1</string>
+    <string name="token_used_during_reg">73hORVsLbZbd7NsQpgeMD/+dSE0</string>
+    <boolean name="report_unhealthy_module" value="true" />
+    <string name="registration_failure_reason"></string>
+    <boolean name="reg_prefill_name" value="true" />
+    <string name="external_storage_type">scoped</string>
+    <int name="reg_attempts_generate_code" value="1" />
+    <int name="sticker_store_backoff_attempt" value="0" />
+    <boolean name="fingerprint_authentication_needed" value="true" />
+    <int name="autoconf_type" value="-1" />
+    <int name="registration_sms_code_length" value="6" />
+    <string name="perf_device_id">ddad5c69-5f38-4507-ade3-e97625114a9d</string>
+    <string name="ph">9728278316</string>
+    <long name="app_background_time" value="126095158" />
+    <boolean name="bad_signed_pre_key_check_done" value="true" />
+    <long name="last_heartbeat_login" value="1683988392148" />
+    <boolean name="input_enter_send" value="false" />
+</map>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="build_version" value="230176001" />
+    <string name="critical_event_client_config">AbstractAppShell/maybeReportDecompressionFailure:1:1687926147969;wamsysJniBridge:1:1687926147969;WhatsAppLibLoader/loadStartupLibs:1:1687926147969;xpm-integration-failed:1:1687926147969;AppMessagingXmppHandler/onLogNotification:1:1687926147969;</string>
+</map>

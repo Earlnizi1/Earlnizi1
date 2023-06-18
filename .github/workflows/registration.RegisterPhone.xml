@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="com.gbwhatsapp.registration.RegisterPhone.phone_number_position" value="10" />
+    <string name="com.gbwhatsapp.registration.RegisterPhone.input_phone_number">706 754 3976</string>
+    <int name="com.gbwhatsapp.registration.RegisterPhone.verification_state" value="0" />
+    <int name="com.gbwhatsapp.registration.RegisterPhone.country_code_position" value="-1" />
+    <string name="com.gbwhatsapp.registration.RegisterPhone.country_code">234</string>
+    <string name="com.gbwhatsapp.registration.RegisterPhone.input_country_code">234</string>
+    <string name="com.gbwhatsapp.registration.RegisterPhone.phone_number">7067543976</string>
+</map>
